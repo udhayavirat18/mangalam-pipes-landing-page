@@ -3,7 +3,7 @@
 A pixel-perfect, fully responsive landing page built from scratch to match provided Figma specifications. 
 
 👤 **Developer:** Udhayakumar  
-🔗 **Live Demo:** [Link to be added once GitHub Pages is live]
+🔗 **Live Demo:** https://udhayavirat18.github.io/mangalam-pipes-landing-page/
 
 ## 🚀 Key Features
 * **Pixel-Perfect UI:** Meticulously translated from Figma designs with exact spacing, typography, and color matching.
